@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network": "linkedin",
+            "href": "https://www.linkedin.com/in/mahm00dai/"
+        },
+        {
+            "network": "github",
+            "href": "https://github.com/mahm00dai"
+        },
+        {
+            "network": "email",
+            "href": "mailto:mahmoud.ai.abdelsalam@gmail.com"
+        }
+    ]
+}
