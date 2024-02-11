@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Solution Integrations Associate",
+            "subtitle": "DEDALUS",
+            "workType": "Full-time",
+            "workDescription": [
+                "Develop Application of standards, techniques, and implementation guides to enable data integration across public health and healthcare.",
+                "Test and validate implemented interfaces based on customer requirements."
+            ],
+            "dateText": "08/2023 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "AIOT",
+            "workType": "Part Time",
+            "workDescription": [
+                "Build, maintain, and manipulate WordPress website.",
+                "Perform data entry, code programs, and implement software applications."
+            ],
+            "dateText": "01/2021 – 07/2023"
+        },
+        {
+            "title": "Softeware Engineer",
+            "subtitle": "Spectro Systems",
+            "workType": "Internship",
+            "workDescription": [
+                "Learn about IOT End-to-End Life Cycle.",
+                "Hands on IOT platforms, Gateways, and managing brokers."
+            ],
+            "dateText": "06/2021 – 09/2021"
+        }
+    ]
+}

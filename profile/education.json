@@ -1,0 +1,15 @@
+{
+    "education": [
+        {
+            "title": "Jan 2020 - Dec 2022",
+            "cardTitle": "B.Sc, Computer Engineering",
+            "cardSubtitle": "American University in Dubai",
+            "cardDetailedText": "CGPA - 3.08"
+        },
+        {
+            "title": "Sep 2017 - Dec 2019",
+            "cardTitle": "B.Sc, Computer Engineering",
+            "cardSubtitle": "American University in Cairo"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/alx-feature.png",
+            "title": "Bit Benders",
+            "bodyText": "- Team slide presentation",
+            "links": [
+                {
+                    "text": "Youtube",
+                    "href": "https://youtu.be/Tcg-wLOfEGA"
+                }
+            ],
+            "tags": [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        }
+    ]
+}
